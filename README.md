@@ -1,7 +1,7 @@
 ---
 name: researchurgy
 description: "Use when performing reproducible research or investigation: evidence grading, cross-validation, replication. 当需要执行可复放的研究或调研（证据分级、交叉验证、复放）时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
