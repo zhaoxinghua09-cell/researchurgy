@@ -1,0 +1,44 @@
+# researchurgy — 完整文本 / Full text
+
+本文件为 llms.txt 标准的「完整版」，供长上下文模型一次性读取本仓库的完整说明。
+This is the llms.txt "full" variant for long-context models.
+
+## 这是什么 / What this is
+
+`researchurgy` 是 LGD（Lifecycle Governance Doctrine，治理学）命名体系中的一项**术语注册**声明，属元层创造术家族（-urgy）。它注册术语 *researchurgy*——把调研从临时发挥提升为可复放工程方法的工程术。
+
+This repository is a **term-registration** claim in the LGD naming system. It registers the term *researchurgy*: the engineering of research as a reproducible method rather than ad-hoc effort.
+
+## 解决什么问题 / What problem it solves
+
+1. 调研质量随执行者水平波动，不可复放。
+2. 不同来源的证据被等权对待，传闻被当结论。
+3. 单通道结论无法被证伪，偏差无法被三角测量发现。
+4. 调研做完即散，方法本身没有元复盘。
+
+## 方法主干 / Method spine
+
+问题定义 → 假设 → 通道（≥2 条独立通道）→ 证据分级（一手/二手/传闻）→ 交叉验证（三角测量）→ 整合（标出不确定处）→ 复放（他人能否复现）→ 元复盘（方法本身哪里失效）。
+
+## 快速开始 / Quick start
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/researchurgy.git
+cd researchurgy
+sed -n '1,12p' README.md        # 读 YAML frontmatter 机器元数据
+```
+
+## 触发词 / Trigger words
+
+可复放调研 / 证据分级 / 交叉验证 / 复放 / 元复盘 / 调研方法 / reproducible research / evidence grading / cross-validation / replication / research method。
+
+## 许可与权利 / License & rights
+
+根目录 [LICENSE](LICENSE) 为 **Apache-2.0**，覆盖未来代码示例与工具脚本。按仓内权利声明，理论/术语文本主张 **ARR（All Rights Reserved）**，但允许注明出处的引用与链接。引用：`CITATION.cff` + DOI `10.5281/zenodo.23385209`。联系：zhaoxinghua09@gmail.com ｜ ORCID `0009-0001-0512-1237`。
+
+## 链接 / Links
+
+- 仓库 / repo: https://github.com/zhaoxinghua09-cell/researchurgy
+- DOI: https://doi.org/10.5281/zenodo.23385209
+- 注册索引 / registry index: https://github.com/zhaoxinghua09-cell/placeholdurgy
+- Software Heritage: https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2Fresearchurgy

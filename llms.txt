@@ -1,14 +1,35 @@
 # researchurgy
 
-> LGD-aligned asset. Four-angle score: LGD 82/100 (REG 80/TRUST 80/SAFE 100/MACH 66).
+> LGD-aligned term-registration asset. Four-angle score: LGD 82/100 (REG 80/TRUST 80/SAFE 100/MACH 66).
+> The engineering of research as a reproducible method: evidence grading, cross-validation, replication.
+
+## What this is
+
+`researchurgy` is a **term-registration** claim in the Lifecycle Governance Doctrine (LGD) naming system, in the meta-layer-creation family (-urgy). It registers the term *researchurgy* — the engineering of research as a reproducible method rather than ad-hoc effort.
+
+Method spine: problem definition → hypothesis → channels → evidence grading → cross-validation → synthesis → replication → meta-review.
+
+## Core files
+
+- [README.md](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/README.md): bilingual term-registration document (YAML frontmatter + definition + rights)
+- [README.en.md](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/README.en.md): English face
+- [AGENTS.md](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/AGENTS.md): machine facts and guardrails for AI agents
+- [CITATION.cff](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/CITATION.cff): citation metadata
+- [codemeta.json](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/codemeta.json): schema.org metadata
+- [llms-full.txt](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/llms-full.txt): full text for long-context models
+- [SECURITY.md](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/SECURITY.md): security policy
+- [CONTRIBUTING.md](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/CONTRIBUTING.md): errata guide
+- [LICENSE](https://github.com/zhaoxinghua09-cell/researchurgy/blob/main/LICENSE): Apache-2.0 (future code)
 
 ## Ecosystem
+
 - awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
 - skill-scorecard: https://github.com/zhaoxinghua09-cell/skill-scorecard
 - lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
 - theoriturgy: https://github.com/zhaoxinghua09-cell/theoriturgy
 
 ## Identity & Archive
+
 - ORCID: https://orcid.org/0009-0001-0512-1237
 - Zenodo: https://doi.org/10.5281/zenodo.23385209
 - Software Heritage: https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2Fresearchurgy
